@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Song的第二篇博客
-subtitle:   Hello,lllllog!
+title:      菘的第一篇博客
+subtitle:   Hello,Blog!
 date:       2018-4-2
 author:     Song
 header-img: img/404-bg.jpg
@@ -11,4 +11,4 @@ tags:
 ---
 
 ## Hello
->这是我的第一篇博客。
+>我的第一篇博客。
