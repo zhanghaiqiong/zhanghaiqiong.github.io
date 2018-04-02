@@ -103,13 +103,10 @@ service-worker: true
 friends: [
     {
         title: "💗吾心悦者💗",
-        href: "http://zhanghaiqiong.github.io"
+        href: "https://zhanghaiqiong.github.io"
     },{
         title: "简书·Song",
         href: "https://www.jianshu.com/u/b98e6662e653"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
     },{
         title: "Android Developer",
         href: "https://developer.android.com/"
